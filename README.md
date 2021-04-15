@@ -1,2 +1,0 @@
-# Socket.Io-Chat-Application
-A full-duplex multi-user chat application made using web sockets via Socket.io in node js. The web application frontend is developed using HTML and CSS along with vanilla JS. The backend of the applciation has been developed in Node.js with Express.js backend framework along with the Socket.io library for creating the websocket. The application enables multiple users to engage in group chat sessions through different chatrooms.
