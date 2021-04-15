@@ -1,3 +1,4 @@
+![Chat App](https://firebasestorage.googleapis.com/v0/b/neelanjan-manna.appspot.com/o/project-images%2FScreenshot%20from%202020-10-26%2014-29-43.png?alt=media&token=d1fe8536-5aa2-4543-966d-8ed441f72b3f)
 <h1 align="center">Welcome to Socket.Io Chat App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
